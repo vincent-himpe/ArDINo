@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=SSR IO TOP.SchDoc|Designator=U_SSR IO INTERFACE|SchDesignator=U_SSR IO INTERFACE|FileName=SSR IO INTERFACE.SchDoc|SymbolType=Normal|RawFileName=SSR IO INTERFACE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SSR IO TOP.SchDoc|Designator=U_SSR IO LOGIC|SchDesignator=U_SSR IO LOGIC|FileName=SSR IO LOGIC.SchDoc|SymbolType=Normal|RawFileName=SSR IO LOGIC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SubProject|ProjectPath=PCA9534
+Record=SubProject|ProjectPath=PCA9534
+Record=TopLevelDocument|FileName=SSR IO TOP.SchDoc
